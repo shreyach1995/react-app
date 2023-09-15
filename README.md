@@ -17,4 +17,4 @@ A demo application using React JS, HTML, and CSS that includes the following thr
 
 **`About`** This page displays a few static data
 
-Run `npm start` to run the project 
+Run `npm start` to run the project on your local server
